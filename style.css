@@ -1,0 +1,39 @@
+body{
+    font-family:  'Open Sans',sans-serif;
+    background-color:beige;
+	margin-top:100px;
+
+}
+
+.box{
+    padding: 50px;
+    background-color: rgba(236, 209, 209, 0.874);
+    width:220px ;
+    height: 200px;
+    margin: auto;
+    border-radius:5px ;
+    box-shadow: 1px 1px 41px 1px rgba(0,0,0,0.44);
+-webkit-box-shadow: 1px 1px 41px 1px rgba(0,0,0,0.44);
+-moz-box-shadow: 1px 1px 41px 1px rgba(0,0,0,0.44);
+
+
+
+}
+
+#text{
+    border-radius: 5px;
+}
+
+h2{
+    color: rgb(156, 110, 199);
+}
+
+.last{
+    width: auto;
+    height: auto;
+    
+ 
+   
+    align-items: center;
+}
+
